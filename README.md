@@ -1,5 +1,5 @@
 <!--Banner-->
-![PrathameshShriwas Banner Image](images/banner.png)
+![Prathamesh Shriwas Image](./Banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Prathamesh shriwas!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Sumit Sartale!
 *Data Scientist & AI Engineer*
 <br />
 
@@ -223,3 +223,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+

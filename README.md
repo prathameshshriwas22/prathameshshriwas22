@@ -75,6 +75,19 @@ I am a passionate <strong>Data Science Fellow</strong> and aspiring <strong>Data
 <!--Projects Section-->
 <h2 align="center">🚀 Projects</h2>
 
+<h3>📊 Visa Approval Analytics Dashboard</h3>
+
+<ul>
+  <li>Built an end-to-end Data Analytics project using <strong>Python, SQL Server, Machine Learning, and Power BI</strong>.</li>
+  <li>Analyzed <strong>25,480 visa applications</strong> to identify factors influencing visa certification and denial outcomes.</li>
+  <li>Performed <strong>Data Cleaning, Exploratory Data Analysis (EDA), and Business Insights Generation</strong>.</li>
+  <li>Developed SQL queries for approval trends, wage analysis, education analysis, and regional insights.</li>
+  <li>Built and evaluated Machine Learning models including <strong>Logistic Regression, Decision Tree, and Random Forest</strong>.</li>
+  <li>Designed a professional <strong>3-page Power BI Dashboard</strong> featuring Executive Summary, Applicant Analysis, and Business Insights.</li>
+  <li>Generated actionable recommendations based on wage, education, experience, and regional factors.</li>
+  <li>Tech Stack: <strong>Python, Pandas, NumPy, Matplotlib, Seaborn, SQL Server, Scikit-Learn, Power BI, GitHub</strong>.</li>
+</ul>
+
 <h3>⚡ Smart Energy Consumption Analysis</h3>
 
 <ul>
@@ -97,8 +110,6 @@ I am a passionate <strong>Data Science Fellow</strong> and aspiring <strong>Data
 <ul>
   <li>Built a logic-based grading system using Python conditional statements.</li>
 </ul>
-
----
 
 <!--Tech Stack-->
 <h2 align="center">⚙️ Technologies & Tools</h2>

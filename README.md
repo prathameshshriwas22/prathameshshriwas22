@@ -533,10 +533,3 @@ Idea / Business Problem
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 </p>
-```
-
-This version makes your GitHub profile look more like an **end-to-end Data Science + AI portfolio**, especially because the architecture shows the progression:
-
-**Data → SQL/EDA → ML/AI → Application → Docker → Azure → Storage/Database → Power BI/Insights.**
-
-I also deliberately kept **Deep Learning as “currently learning”** rather than presenting it as something you've already mastered.

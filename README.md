@@ -26,17 +26,17 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 
 ### 🚀 About Me
 
-* ✨ Student of life and continuous learner
-* 🌱 Currently learning **Deep Learning, ANN, CNN, Transformers Architecture, and Agentic AI**
-* 📊 Passionate about **Data Analytics, Visualization, Machine Learning, and AI**
-* 🤖 Exploring **Generative AI, RAG, LLM Applications, Computer Vision, and AI Agents**
-* 🧠 Interested in building **end-to-end AI and Data Science solutions**
-* 💡 Interested in solving real-world **business, healthcare, and automation problems**
-* 💻 Working with **Python, SQL, Power BI, Machine Learning, Deep Learning, and AI**
-* ☁️ AWS Academy Graduate – AWS Cloud Foundations
-* 🐳 Exploring **Docker and Cloud Deployment using Microsoft Azure**
-* 📈 Goal: To become a **Data Scientist & AI Engineer**
-* ❤️ Love learning new technologies and building practical projects
+- ✨ Student of life and continuous learner
+- 🌱 Currently learning <strong>Deep Learning, ANN, CNN, Transformers Architecture, and Agentic AI</strong>
+- 📊 Passionate about <strong>Data Analytics, Visualization, Machine Learning, and AI</strong>
+- 🤖 Exploring <strong>Generative AI, RAG, LLM Applications, Computer Vision, and AI Agents</strong>
+- 🧠 Interested in building <strong>end-to-end AI and Data Science solutions</strong>
+- 💡 Interested in solving real-world <strong>business, healthcare, and automation problems</strong>
+- 💻 Working with <strong>Python, SQL, Power BI, Machine Learning, Deep Learning, and AI</strong>
+- ☁️ AWS Academy Graduate – AWS Cloud Foundations
+- 🐳 Exploring <strong>Docker and Cloud Deployment using Microsoft Azure</strong>
+- 📈 Goal: To become a <strong>Data Scientist & AI Engineer</strong>
+- ❤️ Love learning new technologies and building practical projects
 
 <!-- End Intro -->
 
@@ -45,12 +45,12 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 <!-- Profile Count Badge -->
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PrathameshShriwas&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="PrathameshShriwas" />
+  <img src="https://komarev.com/ghpvc/?username=prathameshshriwas22&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Prathamesh Shriwas Profile Views" />
 </p>
 
 ---
 
-<!-- Languages and Tools Section -->
+<!-- Tech Stack & Skills -->
 
 <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2>
 
@@ -80,6 +80,8 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 
 ---
 
+<!-- Current Learning -->
+
 <h3 align="left">📚 Currently Learning</h3>
 
 <ul align="left">
@@ -95,7 +97,7 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 
 ---
 
-<!-- Projects Section -->
+<!-- Featured Projects -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -103,16 +105,17 @@ I enjoy transforming data into meaningful insights and building intelligent appl
   <strong>Building practical Data Science, Machine Learning, Deep Learning and AI solutions</strong>
 </p>
 
-| Project                                                    | Description                                                                                                                                                                    | Technologies                                                  |
-| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
-| 📊 **Visa Approval Analytics Dashboard**                   | End-to-end analytics solution analyzing visa applications, approval trends, applicant factors, wages and regional insights with ML predictions and interactive dashboards.     | Python, Pandas, SQL Server, Scikit-Learn, Power BI            |
-| 🤖 **RAG + Docker AI Document Reader**                     | AI-powered document Q&A application using document processing, embeddings, vector search and LLM-based responses with Docker deployment.                                       | Python, Streamlit, RAG, Hugging Face, Pinecone, Docker, Azure |
-| 🚦 **Traffic Challan Automation & AI Violation Detection** | AI-based traffic violation detection system that identifies violations, detects number plates, performs OCR, retrieves owner details and generates structured challan records. | Python, LLM, YOLO, EasyOCR, OpenCV, SQLite                    |
-| 🏥 **MediLens AI – Prescription Analysis**                 | AI healthcare application designed to extract structured information from handwritten or digital prescriptions and convert unstructured medical information into usable data.  | Python, OCR, NLP, Computer Vision, Streamlit, AI              |
-| 🧠 **ANN Image Classification**                            | Deep Learning project using an Artificial Neural Network for fashion image classification with model prediction and probability analysis.                                      | Python, TensorFlow, Keras, ANN, Streamlit                     |
-| ⚡ **Smart Energy Consumption Analysis**                    | Analyzed electrical parameters and energy consumption patterns using preprocessing, statistical analysis and threshold-based abnormal condition detection.                     | Python, Pandas, Matplotlib                                    |
-| 🏥 **Healthcare Python Projects**                          | Collection of Python applications including hospital records, medicine reminders and health risk checking systems.                                                             | Python                                                        |
-| 🎓 **Student Grade Calculator**                            | Logic-based application for calculating student grades using Python conditions and validation.                                                                                 | Python                                                        |
+| Project | Description | Technologies |
+|---|---|---|
+| 📊 **[Visa Approval Analytics Dashboard](https://github.com/prathameshshriwas22/Visa-Approval-Analytics)** | End-to-end analytics solution analyzing visa applications, approval trends, applicant factors, wages and regional insights with ML predictions and interactive dashboards. | Python, Pandas, SQL Server, Scikit-Learn, Power BI |
+| 🏥 **[Healthcare Analytics Dashboard](https://github.com/prathameshshriwas22/Healthcare-Analytics-Dashboard)** | Interactive healthcare dashboard analyzing hospital operations, patient outcomes, costs, satisfaction and readmission patterns to generate actionable insights. | Power BI, Power Query, DAX, Excel |
+| 🤖 **[RAG + Docker AI Document Reader](https://github.com/prathameshshriwas22/RAG-Docker-Pinecone)** | AI-powered document Q&A application using document processing, embeddings, vector search and LLM-based responses with Docker deployment. | Python, Streamlit, RAG, Hugging Face, Pinecone, Docker |
+| 🚦 **Traffic Challan Automation & AI Violation Detection** | AI-based traffic violation system that detects violations, identifies number plates, performs OCR, retrieves owner details and generates structured challan records. | Python, LLM, YOLO, EasyOCR, OpenCV, SQLite |
+| 🏥 **MediLens AI – Prescription Analysis** | AI healthcare application designed to extract structured information from handwritten or digital prescriptions and convert unstructured information into usable data. | Python, OCR, NLP, Computer Vision, Streamlit |
+| 🧠 **ANN Image Classification** | Deep Learning project using an Artificial Neural Network for fashion image classification with model prediction and probability analysis. | Python, TensorFlow, Keras, ANN, Streamlit |
+| ⚡ **Smart Energy Consumption Analysis** | Analyzed electrical parameters and energy consumption patterns using preprocessing, statistical analysis and threshold-based abnormal condition detection. | Python, Pandas, Matplotlib |
+| 🏥 **Healthcare Python Projects** | Collection of Python applications including hospital records, medicine reminders and health risk checking systems. | Python |
+| 🎓 **Student Grade Calculator** | Logic-based application for calculating student grades using Python conditions and validation. | Python |
 
 ---
 
@@ -122,22 +125,33 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 
 <p align="left">
 
-🔹 Data Analytics & Business Intelligence <br>
-🔹 Machine Learning & Predictive Modeling <br>
-🔹 Deep Learning & Neural Networks <br>
-🔹 Computer Vision & OCR <br>
-🔹 Generative AI & RAG <br>
-🔹 Transformers & LLM Applications <br>
-🔹 Agentic AI & AI Automation <br>
-🔹 Healthcare AI <br>
-🔹 Data Visualization & Power BI <br>
+🔹 Data Analytics & Business Intelligence  
+<br>
+🔹 Machine Learning & Predictive Modeling  
+<br>
+🔹 Deep Learning & Neural Networks  
+<br>
+🔹 ANN & CNN  
+<br>
+🔹 Computer Vision & OCR  
+<br>
+🔹 Generative AI & RAG  
+<br>
+🔹 Transformers & LLM Applications  
+<br>
+🔹 Agentic AI & AI Automation  
+<br>
+🔹 Healthcare AI  
+<br>
+🔹 Data Visualization & Power BI  
+<br>
 🔹 Cloud & Docker Deployment
 
 </p>
 
 ---
 
-<!-- Cloud & Deployment Section -->
+<!-- Cloud & Deployment -->
 
 <h2 align="center">☁️ Cloud, Deployment & Development</h2>
 
@@ -197,13 +211,20 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 <p align="center">
 
 <strong>Python</strong>
-  →   <strong>SQL</strong>
-  →   <strong>Data Analytics</strong>
-  →   <strong>Machine Learning</strong>
-  →   <strong>Generative AI</strong>
-  →   <strong>Deep Learning</strong>
-  →   <strong>Transformers</strong>
-  →   <strong>Agentic AI</strong>
+&nbsp; → &nbsp;
+<strong>SQL</strong>
+&nbsp; → &nbsp;
+<strong>Data Analytics</strong>
+&nbsp; → &nbsp;
+<strong>Machine Learning</strong>
+&nbsp; → &nbsp;
+<strong>Generative AI</strong>
+&nbsp; → &nbsp;
+<strong>Deep Learning</strong>
+&nbsp; → &nbsp;
+<strong>Transformers</strong>
+&nbsp; → &nbsp;
+<strong>Agentic AI</strong>
 
 </p>
 
@@ -220,26 +241,41 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=PrathameshShriwas&show_icons=true&theme=tokyonight" alt="Prathamesh GitHub Stats" />
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=prathameshshriwas22&show_icons=true&theme=tokyonight&hide_border=true"
+        alt="Prathamesh GitHub Stats"
+      />
     </td>
+
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathameshShriwas&theme=tokyonight" alt="Prathamesh GitHub Streak" />
+      <img
+        src="https://streak-stats.demolab.com?user=prathameshshriwas22&theme=tokyonight&hide_border=true"
+        alt="Prathamesh GitHub Streak"
+      />
     </td>
   </tr>
 </table>
 
+<br />
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshShriwas&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshshriwas22&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
-<!-- Trophies Section -->
+<!-- GitHub Trophies -->
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrathameshShriwas&theme=algolia&no-frame=true&margin-w=15" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=prathameshshriwas22&theme=algolia&no-frame=true&no-bg=true&margin-w=15"
+    alt="Prathamesh GitHub Trophies"
+  />
 </p>
 
 ---
@@ -249,7 +285,10 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 <h2 align="center">🌟 Thought of the Day 🌟</h2>
 
 <p align="center">
-  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0d1117&author_color=58a6ff&accent_color=ffffff">
+  <img
+    src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0d1117&author_color=58a6ff&accent_color=ffffff"
+    alt="Thought of the Day"
+  />
 </p>
 
 ---
@@ -261,15 +300,15 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 <div align="center">
 
 <a href="mailto:prathameshshriwas22@gmail.com" target="_blank">
-<img src="https://img.icons8.com/color/48/gmail-new.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="50" height="50" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/prathamesh-shriwas-32662b2b7" target="_blank">
-<img src="https://img.icons8.com/color/48/linkedin.png" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="50" height="50" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/PrathameshShriwas" target="_blank">
-<img src="https://img.icons8.com/ios-glyphs/48/github.png" width="50" height="50"/>
+<a href="https://github.com/prathameshshriwas22" target="_blank">
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="50" height="50" alt="GitHub"/>
 </a>
 
 </div>
@@ -279,5 +318,5 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 <!-- Footer -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
 </p>

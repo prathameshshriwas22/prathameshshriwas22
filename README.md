@@ -5,12 +5,12 @@
 <!-- Night Owl Image -->
 
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl">
 </div>
 
 <!-- Header Name -->
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Prathamesh Shriwas!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Hello"/> ɪ'ᴍ Prathamesh Shriwas!
 
 ### *Aspiring Data Scientist | AI Engineer | Data Analyst*
 
@@ -45,7 +45,7 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 <!-- Profile Count Badge -->
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prathameshshriwas22&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Prathamesh Shriwas Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=prathameshshriwas22&label=Profile%20Views&color=770677&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow,pytorch,docker,azure" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow,pytorch,docker,azure" alt="Tech Stack" />
 </p>
 
 <br />
@@ -108,14 +108,14 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 | Project | Description | Technologies |
 |---|---|---|
 | 📊 **[Visa Approval Analytics Dashboard](https://github.com/prathameshshriwas22/Visa-Approval-Analytics)** | End-to-end analytics solution analyzing visa applications, approval trends, applicant factors, wages and regional insights with ML predictions and interactive dashboards. | Python, Pandas, SQL Server, Scikit-Learn, Power BI |
-| 🏥 **[Healthcare Analytics Dashboard](https://github.com/prathameshshriwas22/Healthcare-Analytics-Dashboard)** | Interactive healthcare dashboard analyzing hospital operations, patient outcomes, costs, satisfaction and readmission patterns to generate actionable insights. | Power BI, Power Query, DAX, Excel |
+| 🏥 **[Healthcare Analytics Dashboard](https://github.com/prathameshshriwas22/Healthcare-Analytics-Dashboard)** | Interactive healthcare dashboard analyzing hospital operations, patient outcomes, costs, satisfaction and readmission patterns. | Power BI, Power Query, DAX, Excel |
 | 🤖 **[RAG + Docker AI Document Reader](https://github.com/prathameshshriwas22/RAG-Docker-Pinecone)** | AI-powered document Q&A application using document processing, embeddings, vector search and LLM-based responses with Docker deployment. | Python, Streamlit, RAG, Hugging Face, Pinecone, Docker |
-| 🚦 **Traffic Challan Automation & AI Violation Detection** | AI-based traffic violation system that detects violations, identifies number plates, performs OCR, retrieves owner details and generates structured challan records. | Python, LLM, YOLO, EasyOCR, OpenCV, SQLite |
-| 🏥 **MediLens AI – Prescription Analysis** | AI healthcare application designed to extract structured information from handwritten or digital prescriptions and convert unstructured information into usable data. | Python, OCR, NLP, Computer Vision, Streamlit |
-| 🧠 **ANN Image Classification** | Deep Learning project using an Artificial Neural Network for fashion image classification with model prediction and probability analysis. | Python, TensorFlow, Keras, ANN, Streamlit |
-| ⚡ **Smart Energy Consumption Analysis** | Analyzed electrical parameters and energy consumption patterns using preprocessing, statistical analysis and threshold-based abnormal condition detection. | Python, Pandas, Matplotlib |
-| 🏥 **Healthcare Python Projects** | Collection of Python applications including hospital records, medicine reminders and health risk checking systems. | Python |
-| 🎓 **Student Grade Calculator** | Logic-based application for calculating student grades using Python conditions and validation. | Python |
+| 🚦 **Traffic Challan Automation & AI Violation Detection** | AI-based traffic violation system for violation detection, number plate recognition, OCR, owner identification and challan generation. | Python, LLM, YOLO, EasyOCR, OpenCV, SQLite |
+| 🏥 **MediLens AI – Prescription Analysis** | AI healthcare application for extracting structured information from handwritten or digital prescriptions. | Python, OCR, NLP, Computer Vision, Streamlit |
+| 🧠 **ANN Image Classification** | Deep Learning project using an Artificial Neural Network for fashion image classification and probability analysis. | Python, TensorFlow, Keras, ANN, Streamlit |
+| ⚡ **Smart Energy Consumption Analysis** | Analysis of electrical parameters and energy consumption patterns using preprocessing and statistical analysis. | Python, Pandas, Matplotlib |
+| 🏥 **Healthcare Python Projects** | Collection of Python applications including hospital records, medicine reminders and healthcare utilities. | Python |
+| 🎓 **Student Grade Calculator** | Python application for calculating student grades using conditions and validation. | Python |
 
 ---
 
@@ -157,13 +157,13 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+<img src="https://img.shields.io/badge/Azure%20Storage-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Storage" />
+<img src="https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure App Service" />
+<img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure SQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 </p>
 
@@ -187,18 +187,18 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 
 </p>
 
@@ -234,48 +234,50 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 
 ---
 
-<!-- GitHub Stats -->
+<!-- GitHub Activity -->
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=prathameshshriwas22&show_icons=true&theme=tokyonight&hide_border=true"
-        alt="Prathamesh GitHub Stats"
-      />
-    </td>
-
-    <td width="50%" align="center">
-      <img
-        src="https://streak-stats.demolab.com?user=prathameshshriwas22&theme=tokyonight&hide_border=true"
-        alt="Prathamesh GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
-
-<br />
+<h2 align="center">💻 GitHub Activity</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshshriwas22&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/prathameshshriwas22">
+    <img
+      src="https://img.shields.io/badge/GitHub-prathameshshriwas22-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Profile"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Explore my repositories, projects, contributions and ongoing learning journey.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/prathameshshriwas22?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/prathameshshriwas22?tab=stars">
+    <img src="https://img.shields.io/badge/View%20Starred%20Projects-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starred Projects" />
+  </a>
 </p>
 
 ---
 
 <!-- GitHub Trophies -->
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=prathameshshriwas22&theme=algolia&no-frame=true&no-bg=true&margin-w=15"
-    alt="Prathamesh GitHub Trophies"
-  />
+  <a href="https://github.com/prathameshshriwas22">
+    <img
+      src="https://img.shields.io/badge/GitHub-Projects%20%26%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Projects and Contributions"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Building, learning, experimenting and improving through practical projects.</strong>
 </p>
 
 ---
@@ -285,10 +287,11 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 <h2 align="center">🌟 Thought of the Day 🌟</h2>
 
 <p align="center">
-  <img
-    src="https://readme-daily-quotes.vercel.app/api?theme=dark&bg_color=0d1117&author_color=58a6ff&accent_color=ffffff"
-    alt="Thought of the Day"
-  />
+  <strong>“Learn → Build → Test → Analyze → Improve → Repeat.”</strong>
+</p>
+
+<p align="center">
+  <em>Every project is an opportunity to learn something new.</em>
 </p>
 
 ---
@@ -299,15 +302,15 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 
 <div align="center">
 
-<a href="mailto:prathameshshriwas22@gmail.com" target="_blank">
+<a href="mailto:prathameshshriwas22@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="50" height="50" alt="Email"/>
 </a>
 
-<a href="https://www.linkedin.com/in/prathamesh-shriwas-32662b2b7" target="_blank">
+<a href="https://www.linkedin.com/in/prathamesh-shriwas-32662b2b7">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="50" height="50" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/prathameshshriwas22" target="_blank">
+<a href="https://github.com/prathameshshriwas22">
   <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="50" height="50" alt="GitHub"/>
 </a>
 
@@ -318,5 +321,5 @@ I enjoy transforming data into meaningful insights and building intelligent appl
 <!-- Footer -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" alt="Footer" />
 </p>

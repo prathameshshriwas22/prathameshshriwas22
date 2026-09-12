@@ -1,39 +1,48 @@
-<!--Banner-->
+<!-- Banner -->
 
 ![Prathamesh Shriwas Banner Image](./Banner.png)
 
-<!--Night Owl image-->
+<!-- Night Owl Image -->
 
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<!--Header Name-->
+<!-- Header Name -->
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Prathamesh Shriwas!
 
-*Aspiring Data Scientist & AI Engineer* <br />
+### *Aspiring Data Scientist | AI Engineer | Data Analyst*
 
-<!--Start Intro-->
+<!-- Start Intro -->
 
 <p align="left">
-I am a passionate <strong>Data Science Fellow</strong> and aspiring <strong>Data Analyst & AI Engineer</strong> with a strong interest in Machine Learning, Data Analytics, Artificial Intelligence, and real-world problem solving. I enjoy building intelligent systems, analyzing data, and creating impactful projects using Python, SQL, Power BI, and AI technologies.
+I am a passionate <strong>Data Science Fellow</strong> and aspiring <strong>Data Scientist & AI Engineer</strong> with a strong interest in Machine Learning, Data Analytics, Deep Learning, Generative AI, and real-world AI applications.
 </p>
 
-* ✨ Student of life :)
-* 🌱 Currently learning and improving my skills in Data Science, Machine Learning, and AI.
-* 📊 Passionate about Data Analytics, Visualization, and AI-powered applications.
-* 🤖 Exploring Machine Learning, Deep Learning, and Generative AI technologies.
-* 💡 Interested in solving real-world business and healthcare problems using data.
-* 🧠 Strong analytical thinking with engineering background.
-* 💻 Working on Python, SQL, Power BI, Tableau, and Machine Learning projects.
-* ☁ AWS Academy Graduate – AWS Cloud Foundations Certified.
-* ❤ Love learning new technologies and contributing to projects.
-* 📈 Goal: To become a successful Data Scientist & AI Engineer.
+<p align="left">
+I enjoy transforming data into meaningful insights and building intelligent applications using <strong>Python, SQL, Power BI, Machine Learning, Deep Learning, Computer Vision, RAG, and AI technologies.</strong>
+</p>
 
-<!--End Intro-->
+### 🚀 About Me
 
-<!--Profile Count Badge-->
+* ✨ Student of life and continuous learner
+* 🌱 Currently learning **Deep Learning, ANN, CNN, Transformers Architecture, and Agentic AI**
+* 📊 Passionate about **Data Analytics, Visualization, Machine Learning, and AI**
+* 🤖 Exploring **Generative AI, RAG, LLM Applications, Computer Vision, and AI Agents**
+* 🧠 Interested in building **end-to-end AI and Data Science solutions**
+* 💡 Interested in solving real-world **business, healthcare, and automation problems**
+* 💻 Working with **Python, SQL, Power BI, Machine Learning, Deep Learning, and AI**
+* ☁️ AWS Academy Graduate – AWS Cloud Foundations
+* 🐳 Exploring **Docker and Cloud Deployment using Microsoft Azure**
+* 📈 Goal: To become a **Data Scientist & AI Engineer**
+* ❤️ Love learning new technologies and building practical projects
+
+<!-- End Intro -->
+
+---
+
+<!-- Profile Count Badge -->
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PrathameshShriwas&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="PrathameshShriwas" />
@@ -41,7 +50,7 @@ I am a passionate <strong>Data Science Fellow</strong> and aspiring <strong>Data
 
 ---
 
-<!--Languages and Tools Section-->
+<!-- Languages and Tools Section -->
 
 <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2>
 
@@ -55,120 +64,80 @@ I am a passionate <strong>Data Science Fellow</strong> and aspiring <strong>Data
 
 <ul align="left">
   <li><strong>Programming:</strong> Python, SQL</li>
-  <li><strong>Data Analysis:</strong> Pandas, NumPy, Data Cleaning, EDA, Data Visualization</li>
-  <li><strong>Visualization Tools:</strong> Power BI, Tableau, Matplotlib, Seaborn</li>
-  <li><strong>Machine Learning:</strong> Scikit-Learn, Regression, Classification, Clustering</li>
-  <li><strong>Deep Learning:</strong> Neural Networks, TensorFlow, PyTorch Basics</li>
-  <li><strong>Databases:</strong> MySQL</li>
-  <li><strong>Cloud:</strong> AWS Cloud Foundations, Microsoft Azure</li>
-  <li><strong>Deployment:</strong> Docker, Azure App Service, Azure Storage, Azure SQL Database</li>
-  <li><strong>AI & Generative AI:</strong> RAG, Embeddings, Vector Databases, LLMs, Document AI</li>
-  <li><strong>Other Skills:</strong> Workflow Optimization, Problem Solving, Analytical Thinking</li>
+  <li><strong>Data Analysis:</strong> Pandas, NumPy, Data Cleaning, EDA, Statistical Analysis</li>
+  <li><strong>Data Visualization:</strong> Power BI, Tableau, Matplotlib, Seaborn</li>
+  <li><strong>Machine Learning:</strong> Scikit-Learn, Regression, Classification, Clustering, Feature Engineering</li>
+  <li><strong>Deep Learning:</strong> Neural Networks, ANN, CNN, TensorFlow, PyTorch</li>
+  <li><strong>Computer Vision:</strong> OpenCV, YOLO, Image Processing, OCR</li>
+  <li><strong>Generative AI:</strong> LLMs, RAG, Prompt Engineering, Embeddings, Vector Databases</li>
+  <li><strong>AI Architecture:</strong> Transformers Architecture, Attention Concepts, Agentic AI</li>
+  <li><strong>Databases:</strong> MySQL, SQL Server, SQLite, Azure SQL</li>
+  <li><strong>Cloud:</strong> Microsoft Azure, Azure Storage, Azure App Service, AWS Cloud Foundations</li>
+  <li><strong>Deployment:</strong> Docker, Azure App Service, Cloud Deployment</li>
+  <li><strong>Development:</strong> Git, GitHub, VS Code, Jupyter Notebook</li>
+  <li><strong>Other Skills:</strong> Problem Solving, Analytical Thinking, Business Understanding</li>
 </ul>
 
 ---
 
-<h3 align="left">📚 Current Learning</h3>
+<h3 align="left">📚 Currently Learning</h3>
 
 <ul align="left">
-  <li>Advanced Data Analytics & Machine Learning</li>
-  <li>Deep Learning & Generative AI</li>
-  <li>Neural Networks, CNN, RNN and LSTM Concepts</li>
-  <li>Power BI Dashboards & Business Intelligence</li>
-  <li>SQL Optimization & Data Engineering Concepts</li>
-  <li>Real-world AI and Healthcare Analytics Projects</li>
-  <li>Cloud Deployment using Microsoft Azure</li>
+  <li>🧠 <strong>Deep Learning</strong> – Neural Networks, Optimization and Model Training</li>
+  <li>🔢 <strong>ANN</strong> – Artificial Neural Networks and Image Classification</li>
+  <li>👁️ <strong>CNN</strong> – Convolutional Neural Networks and Computer Vision</li>
+  <li>🔄 <strong>Transformers</strong> – Attention Mechanism and Transformer Architecture</li>
+  <li>🤖 <strong>Agentic AI</strong> – AI Agents, Tool Calling and Multi-Step Workflows</li>
+  <li>✨ <strong>Generative AI</strong> – LLMs, RAG, Embeddings and Vector Databases</li>
+  <li>📊 <strong>Advanced Machine Learning & Data Science</strong></li>
+  <li>☁️ <strong>Cloud & AI Application Deployment</strong></li>
 </ul>
 
 ---
 
-<!--Projects Section-->
+<!-- Projects Section -->
 
-<h2 align="center">🚀 Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<h3>📊 Visa Approval Analytics Dashboard</h3>
+<p align="center">
+  <strong>Building practical Data Science, Machine Learning, Deep Learning and AI solutions</strong>
+</p>
 
-<ul>
-  <li>Built an end-to-end Data Analytics project using <strong>Python, SQL Server, Machine Learning, and Power BI</strong>.</li>
-  <li>Analyzed <strong>25,480 visa applications</strong> to identify factors influencing visa certification and denial outcomes.</li>
-  <li>Performed <strong>Data Cleaning, Exploratory Data Analysis (EDA), and Business Insights Generation</strong>.</li>
-  <li>Developed SQL queries for approval trends, wage analysis, education analysis, and regional insights.</li>
-  <li>Built and evaluated Machine Learning models including <strong>Logistic Regression, Decision Tree, and Random Forest</strong>.</li>
-  <li>Designed a professional <strong>3-page Power BI Dashboard</strong> featuring Executive Summary, Applicant Analysis, and Business Insights.</li>
-  <li>Generated actionable recommendations based on wage, education, experience, and regional factors.</li>
-  <li>Tech Stack: <strong>Python, Pandas, NumPy, Matplotlib, Seaborn, SQL Server, Scikit-Learn, Power BI, GitHub</strong>.</li>
-</ul>
-
-<h3>🤖 RAG + Docker AI Document Reader</h3>
-
-<ul>
-  <li>Built an AI-powered <strong>Retrieval-Augmented Generation (RAG)</strong> application for intelligent document question answering.</li>
-  <li>Implemented a complete pipeline: <strong>PDF Loading → Text Extraction → Text Splitting → Embeddings → Vector Database → Similarity Search → LLM Response</strong>.</li>
-  <li>Used <strong>Pinecone Vector Database</strong> for storing and retrieving document embeddings.</li>
-  <li>Integrated Hugging Face models for embeddings and language processing.</li>
-  <li>Developed the application using <strong>Python and Streamlit</strong>.</li>
-  <li>Containerized the complete application using <strong>Docker</strong> for reproducible deployment.</li>
-  <li>Configured environment variables and application dependencies for containerized execution.</li>
-  <li>Deployed the Dockerized AI Document Reader on <strong>Microsoft Azure App Service</strong>.</li>
-  <li>Used <strong>Azure Storage</strong> for cloud-based file/data storage and Azure services for deployment infrastructure.</li>
-  <li>Developed and tested the project using <strong>VS Code, Git, GitHub and Docker</strong>.</li>
-  <li>Tech Stack: <strong>Python, Streamlit, RAG, Hugging Face, Embeddings, Pinecone, Docker, Azure App Service, Azure Storage, GitHub, VS Code</strong>.</li>
-</ul>
-
-<h3>🚦 Traffic Challan Automation & AI Violation Detection</h3>
-
-<ul>
-  <li>Built an AI-powered traffic violation detection and automated challan generation system.</li>
-  <li>Implemented an end-to-end pipeline: <strong>Traffic Image → AI Violation Detection → Fine Lookup → Number Plate Detection → OCR → User Database Lookup → Challan Generation</strong>.</li>
-  <li>Used an LLM-based system to identify traffic violations from uploaded images.</li>
-  <li>Used <strong>YOLO</strong> for vehicle number plate detection.</li>
-  <li>Used <strong>EasyOCR</strong> to extract vehicle registration numbers from detected number plates.</li>
-  <li>Created SQLite databases for <strong>violation/fine information and vehicle-owner information</strong>.</li>
-  <li>Automated fine calculation by querying the violation database.</li>
-  <li>Connected vehicle registration numbers with owner details using database lookup.</li>
-  <li>Generated structured challan records containing violation, fine, vehicle and owner information.</li>
-  <li>Designed the project as a modular Python pipeline with separate detection, OCR, database and orchestration components.</li>
-  <li>Tech Stack: <strong>Python, LLM, YOLO, EasyOCR, SQLite, OpenCV, AI/ML, GitHub</strong>.</li>
-</ul>
-
-<h3>🏥 MediLens AI – Doctor Prescription Analysis</h3>
-
-<ul>
-  <li>Developing an AI-powered healthcare application to analyze uploaded handwritten or digital prescriptions.</li>
-  <li>Designed to extract available information such as <strong>patient details, doctor details, diagnosis, medicine names, dosage, frequency and duration</strong>.</li>
-  <li>Implemented prescription image processing and AI-based text extraction.</li>
-  <li>Developing an interactive application using <strong>Python, FastAPI/Streamlit and AI technologies</strong>.</li>
-  <li>Planned features include prescription translation, voice-based interaction, hospital discovery, directions and PDF prescription reports.</li>
-  <li>Designed the application with a focus on converting unstructured prescription information into structured medical data.</li>
-  <li>Tech Stack: <strong>Python, AI, OCR, FastAPI, Streamlit, NLP, Computer Vision, GitHub</strong>.</li>
-</ul>
-
-<h3>⚡ Smart Energy Consumption Analysis</h3>
-
-<ul>
-  <li>Analyzed electrical parameters like voltage, current, and power using Python.</li>
-  <li>Used Pandas for data preprocessing and statistical analysis.</li>
-  <li>Implemented threshold-based logic for abnormal condition detection.</li>
-  <li>Visualized energy consumption patterns using Matplotlib.</li>
-</ul>
-
-<h3>🏥 Healthcare Python Projects</h3>
-
-<ul>
-  <li>Hospital Patient Record System</li>
-  <li>Medicine Reminder Program</li>
-  <li>Health Risk Checker</li>
-</ul>
-
-<h3>🎓 Student Grade Calculator</h3>
-
-<ul>
-  <li>Built a logic-based grading system using Python conditional statements.</li>
-</ul>
+| Project                                                    | Description                                                                                                                                                                    | Technologies                                                  |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| 📊 **Visa Approval Analytics Dashboard**                   | End-to-end analytics solution analyzing visa applications, approval trends, applicant factors, wages and regional insights with ML predictions and interactive dashboards.     | Python, Pandas, SQL Server, Scikit-Learn, Power BI            |
+| 🤖 **RAG + Docker AI Document Reader**                     | AI-powered document Q&A application using document processing, embeddings, vector search and LLM-based responses with Docker deployment.                                       | Python, Streamlit, RAG, Hugging Face, Pinecone, Docker, Azure |
+| 🚦 **Traffic Challan Automation & AI Violation Detection** | AI-based traffic violation detection system that identifies violations, detects number plates, performs OCR, retrieves owner details and generates structured challan records. | Python, LLM, YOLO, EasyOCR, OpenCV, SQLite                    |
+| 🏥 **MediLens AI – Prescription Analysis**                 | AI healthcare application designed to extract structured information from handwritten or digital prescriptions and convert unstructured medical information into usable data.  | Python, OCR, NLP, Computer Vision, Streamlit, AI              |
+| 🧠 **ANN Image Classification**                            | Deep Learning project using an Artificial Neural Network for fashion image classification with model prediction and probability analysis.                                      | Python, TensorFlow, Keras, ANN, Streamlit                     |
+| ⚡ **Smart Energy Consumption Analysis**                    | Analyzed electrical parameters and energy consumption patterns using preprocessing, statistical analysis and threshold-based abnormal condition detection.                     | Python, Pandas, Matplotlib                                    |
+| 🏥 **Healthcare Python Projects**                          | Collection of Python applications including hospital records, medicine reminders and health risk checking systems.                                                             | Python                                                        |
+| 🎓 **Student Grade Calculator**                            | Logic-based application for calculating student grades using Python conditions and validation.                                                                                 | Python                                                        |
 
 ---
 
-<!--Cloud & Deployment Section-->
+<!-- Project Focus -->
+
+<h3 align="left">🎯 Project Focus Areas</h3>
+
+<p align="left">
+
+🔹 Data Analytics & Business Intelligence <br>
+🔹 Machine Learning & Predictive Modeling <br>
+🔹 Deep Learning & Neural Networks <br>
+🔹 Computer Vision & OCR <br>
+🔹 Generative AI & RAG <br>
+🔹 Transformers & LLM Applications <br>
+🔹 Agentic AI & AI Automation <br>
+🔹 Healthcare AI <br>
+🔹 Data Visualization & Power BI <br>
+🔹 Cloud & Docker Deployment
+
+</p>
+
+---
+
+<!-- Cloud & Deployment Section -->
 
 <h2 align="center">☁️ Cloud, Deployment & Development</h2>
 
@@ -184,261 +153,21 @@ I am a passionate <strong>Data Science Fellow</strong> and aspiring <strong>Data
 
 </p>
 
-<h3>☁️ Microsoft Azure Services</h3>
+<h3>☁️ Microsoft Azure & Development</h3>
 
 <ul>
   <li><strong>Azure Storage:</strong> Cloud-based storage for application files and data.</li>
-  <li><strong>Azure App Service:</strong> Hosting and deployment of containerized web applications.</li>
-  <li><strong>Azure SQL Database:</strong> Cloud relational database service for storing structured application data.</li>
-  <li><strong>Power BI:</strong> Business intelligence, data visualization and interactive dashboard development.</li>
-  <li><strong>VS Code:</strong> Primary development environment for Python, SQL, Docker and cloud projects.</li>
+  <li><strong>Azure App Service:</strong> Hosting and deployment of web and AI applications.</li>
+  <li><strong>Azure SQL Database:</strong> Cloud relational database for structured application data.</li>
   <li><strong>Docker:</strong> Containerization and reproducible application deployment.</li>
+  <li><strong>Power BI:</strong> Business intelligence, visualization and dashboard development.</li>
+  <li><strong>VS Code:</strong> Development environment for Python, SQL, AI and cloud projects.</li>
   <li><strong>Git & GitHub:</strong> Version control, project management and source-code collaboration.</li>
 </ul>
 
 ---
 
-<!--Overall Architecture Section-->
-
-<h2 align="center">🏗️ Overall Projects & Deployment Architecture</h2>
-
-<p align="center">
-  <strong>End-to-End Data → AI → Database → Docker → Azure → Visualization Architecture</strong>
-</p>
-
-```text
-                                      ┌──────────────────────────┐
-                                      │       USER / CLIENT      │
-                                      │  Images • PDFs • Data    │
-                                      └────────────┬─────────────┘
-                                                   │
-                                                   ▼
-                              ┌─────────────────────────────────────┐
-                              │          APPLICATION LAYER          │
-                              │                                     │
-                              │ Streamlit / FastAPI / Python Apps  │
-                              │ MediLens AI • RAG • Challan System │
-                              └────────────────┬────────────────────┘
-                                               │
-                         ┌─────────────────────┼─────────────────────┐
-                         │                     │                     │
-                         ▼                     ▼                     ▼
-                ┌────────────────┐    ┌────────────────┐    ┌─────────────────┐
-                │   COMPUTER     │    │   DOCUMENT     │    │      DATA       │
-                │    VISION      │    │      AI        │    │    ANALYTICS    │
-                │                │    │                │    │                 │
-                │ YOLO           │    │ OCR            │    │ Python / Pandas │
-                │ OpenCV         │    │ RAG            │    │ SQL / EDA       │
-                │ EasyOCR        │    │ Embeddings     │    │ Power BI        │
-                └───────┬────────┘    │ Vector Search  │    └────────┬────────┘
-                        │             │ LLM            │             │
-                        │             └───────┬────────┘             │
-                        │                     │                      │
-                        └─────────────────────┼──────────────────────┘
-                                              │
-                                              ▼
-                              ┌──────────────────────────┐
-                              │      DATA / DATABASE     │
-                              │                          │
-                              │ SQLite • MySQL           │
-                              │ SQL Server • Azure SQL   │
-                              │ Pinecone Vector DB       │
-                              └────────────┬─────────────┘
-                                           │
-                                           ▼
-                              ┌──────────────────────────┐
-                              │     CONTAINERIZATION     │
-                              │                          │
-                              │          Docker          │
-                              │                          │
-                              │  Application + Libraries │
-                              │  Dependencies + Config   │
-                              └────────────┬─────────────┘
-                                           │
-                                           ▼
-                         ┌────────────────────────────────────┐
-                         │          MICROSOFT AZURE            │
-                         │                                    │
-                         │  ┌──────────────────────────────┐  │
-                         │  │     Azure App Service        │  │
-                         │  │   Dockerized AI Application  │  │
-                         │  └──────────────┬───────────────┘  │
-                         │                 │                  │
-                         │  ┌──────────────▼───────────────┐  │
-                         │  │       Azure Storage           │  │
-                         │  │       Files / Data            │  │
-                         │  └──────────────────────────────┘  │
-                         │                                    │
-                         │  ┌──────────────────────────────┐  │
-                         │  │        Azure SQL Database      │  │
-                         │  │       Structured Data          │  │
-                         │  └──────────────────────────────┘  │
-                         └──────────────────┬─────────────────┘
-                                            │
-                                            ▼
-                              ┌──────────────────────────┐
-                              │      BUSINESS INSIGHTS   │
-                              │                          │
-                              │         Power BI         │
-                              │                          │
-                              │ Dashboards • KPIs • EDA  │
-                              │ Trends • Decision Making │
-                              └──────────────────────────┘
-
-
-             ┌────────────────────────────────────────────────────┐
-             │                 DEVELOPMENT WORKFLOW               │
-             │                                                    │
-             │ VS Code → Python → Git → GitHub → Docker → Azure  │
-             └────────────────────────────────────────────────────┘
-```
-
-<h3>📁 Overall Project Folder & File Architecture</h3>
-
-```text
-Data-Science-AI-Portfolio/
-│
-├── 📊 Visa-Approval-Analytics/
-│   ├── data/
-│   ├── notebooks/
-│   ├── sql/
-│   ├── models/
-│   ├── powerbi/
-│   ├── requirements.txt
-│   └── README.md
-│
-├── 🤖 RAG-AI-Document-Reader/
-│   ├── data/
-│   │   └── documents/
-│   ├── src/
-│   │   ├── loader.py
-│   │   ├── splitters.py
-│   │   ├── model.py
-│   │   └── vectors.py
-│   ├── app.py
-│   ├── Dockerfile
-│   ├── requirements.txt
-│   ├── .env
-│   └── README.md
-│
-├── 🚦 Traffic-Challan-Automation/
-│   ├── data/
-│   ├── models/
-│   │   └── violation_model.pt
-│   ├── database/
-│   │   ├── chalan.db
-│   │   └── user.db
-│   ├── violation_detection.py
-│   ├── number_plate.py
-│   ├── ocr.py
-│   ├── challan.py
-│   ├── main.py
-│   ├── requirements.txt
-│   └── README.md
-│
-├── 🏥 MediLens-AI/
-│   ├── data/
-│   ├── models/
-│   ├── src/
-│   ├── app.py
-│   ├── requirements.txt
-│   └── README.md
-│
-├── ⚡ Smart-Energy-Analysis/
-│   ├── data/
-│   ├── notebooks/
-│   ├── scripts/
-│   └── README.md
-│
-├── 🏥 Healthcare-Python-Projects/
-│   ├── hospital-record-system/
-│   ├── medicine-reminder/
-│   └── health-risk-checker/
-│
-├── 🎓 Student-Grade-Calculator/
-│   └── grade_calculator.py
-│
-├── ☁️ Azure/
-│   ├── storage/
-│   ├── app-service/
-│   ├── azure-sql/
-│   └── deployment/
-│
-├── 🐳 Docker/
-│   ├── Dockerfile
-│   ├── requirements.txt
-│   └── docker-compose.yml
-│
-├── 📈 PowerBI/
-│   ├── dashboards/
-│   └── reports/
-│
-├── 📓 notebooks/
-│   ├── data-analysis/
-│   ├── machine-learning/
-│   └── deep-learning/
-│
-├── 📚 SQL/
-│   ├── queries/
-│   ├── joins/
-│   ├── subqueries/
-│   ├── window-functions/
-│   └── practice/
-│
-├── 🧠 Deep-Learning/
-│   ├── neural-networks/
-│   ├── cnn/
-│   ├── rnn/
-│   └── lstm/
-│
-├── requirements.txt
-└── README.md
-```
-
-<h3>🔄 Project Development & Deployment Flow</h3>
-
-```text
-Idea / Business Problem
-          │
-          ▼
-     Data Collection
-          │
-          ▼
- Data Cleaning & Preprocessing
-          │
-          ▼
-       EDA / SQL
-          │
-          ▼
-   Machine Learning / AI
-          │
-          ├───────────────┐
-          │               │
-          ▼               ▼
-   Power BI         AI Application
-  Visualization      / RAG / CV
-                          │
-                          ▼
-                      Docker
-                          │
-                          ▼
-                  Microsoft Azure
-                          │
-              ┌───────────┼───────────┐
-              ▼           ▼           ▼
-        App Service   Azure Storage  Azure SQL
-              │           │           │
-              └───────────┼───────────┘
-                          ▼
-                    Production App
-                          │
-                          ▼
-                Business / AI Insights
-```
-
----
-
-<!--Tech Stack-->
+<!-- Technologies -->
 
 <h2 align="center">⚙️ Technologies & Tools</h2>
 
@@ -461,32 +190,51 @@ Idea / Business Problem
 
 ---
 
-<!--Github stats Table-->
+<!-- Learning Journey -->
+
+<h2 align="center">🧭 Data Science & AI Learning Journey</h2>
+
+<p align="center">
+
+<strong>Python</strong>
+  →   <strong>SQL</strong>
+  →   <strong>Data Analytics</strong>
+  →   <strong>Machine Learning</strong>
+  →   <strong>Generative AI</strong>
+  →   <strong>Deep Learning</strong>
+  →   <strong>Transformers</strong>
+  →   <strong>Agentic AI</strong>
+
+</p>
+
+<p align="center">
+<strong>Learn → Understand → Practice → Build → Test → Analyze → Improve → Learn Again</strong>
+</p>
+
+---
+
+<!-- GitHub Stats -->
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=PrathameshShriwas&show_icons=true&theme=tokyonight" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=PrathameshShriwas&show_icons=true&theme=tokyonight" alt="Prathamesh GitHub Stats" />
     </td>
-
-```
-<td width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathameshShriwas&theme=tokyonight" />
-</td>
-```
-
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathameshShriwas&theme=tokyonight" alt="Prathamesh GitHub Streak" />
+    </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshShriwas&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshShriwas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-<!--Trophies Section-->
+<!-- Trophies Section -->
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
@@ -496,7 +244,7 @@ Idea / Business Problem
 
 ---
 
-<!--Thought of the Day-->
+<!-- Thought of the Day -->
 
 <h2 align="center">🌟 Thought of the Day 🌟</h2>
 
@@ -506,7 +254,7 @@ Idea / Business Problem
 
 ---
 
-<!--Contact Section-->
+<!-- Contact Section -->
 
 <h2 align="center">🤝 Connect With Me 🤝</h2>
 
@@ -528,7 +276,7 @@ Idea / Business Problem
 
 <br />
 
-<!--Footer-->
+<!-- Footer -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
